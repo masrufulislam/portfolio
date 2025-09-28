@@ -42,12 +42,6 @@ Passionate about building software that makes a real impact, I enjoy solving pro
 
 ---
 
-## 📸 Preview
-![Portfolio Preview](screenshot.png)  
-*(Add a screenshot of your site here once it’s live)*  
-
----
-
 ## ⚡ Future Improvements
 - Add a **Projects** section showcasing GitHub repos and live demos  
 - Include a **Blog** or **Articles** page about AI, Web Dev, and Cybersecurity  
@@ -57,3 +51,4 @@ Passionate about building software that makes a real impact, I enjoy solving pro
 
 ## 📜 License
 This project is open-source and free to use.  
+
